@@ -9,7 +9,8 @@ Olá Sou o Matheus Trindade. Sou aluno do Curso Staart.
 ## Meus Objetivos
 - Aprender a Programar;
 - Alcançar Liberdade;
-- Desenvolver Novas Habilidades.
+- Desenvolver Novas Habilidades;
+- Ajudar pessoas a alcançar a liberdade.
 
 ## Atualmente Estudando
 - Git e GitHub;
